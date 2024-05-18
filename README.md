@@ -7,18 +7,17 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Para a realização deste projeto, foi projetada uma empresa de telemarketing fictícia com sede na cidade de São Paulo, capital, e três filiais estrategicamente localizadas. Cada filial foi concebida com uma estrutura de rede independente, sustentada por seu próprio servidor para garantir o bom funcionamento das operações
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Efraim Rocha da Silva
+* Lucélia Augusta Silva Maia
+* Marcelo Silvério da Cruz
+* Mayderson Santos Mello
+* Yuri Farnésio Sousa Silva
 
 ## Orientador
 
-* Nome completo do professor 1
-
+* Fábio Leandro Rodrigues Cordeiro
 

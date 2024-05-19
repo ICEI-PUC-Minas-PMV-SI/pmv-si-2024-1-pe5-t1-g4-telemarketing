@@ -1,4 +1,9 @@
 Eu, **Lucélia Augusta Silva Maia**, atuei nesta terceira etapa configurando o Zabbix com os serviços do Windows Server. Assisti a vários videos sobre instalação do Zabbix no windows Seerver e no Ubuntun Server 22. Coloquei os prints no trabalho. Trabalhei na configuração do Zabbix e do serviço snmp no Ubuntu server linux 22. Alimentei o Github com as informações do Grupo.
 
-
 Eu, **Marcelo Silvério da Cruz**, atuei nesta terceira etapa configurando o Zabbix com os serviços do Windows Server. Assisti a vários videos e pesquisei material sobre o funcionamento do Zabbix no windows. Fiz a descrição dos prints no trabalho. Fiz a revisão da documentação. 
+
+Eu, **Mayderson Santos Mello**, atuei nesta terceira etapa na configuração do Zabbix Server em uma instância EC2 na AWS, e na configuração do Zabbix Agent na instância EC2 que roda as aplicações Web, API, FTP e OpenVPN. Tirei os prints dos ambientes para evidenciar na descrição do trabalho e ajudei o Marcelo e o Efraim na implementação do Zabbix Server e Agent no serviço de AD. 
+
+Eu **Efraim Rocha da Silva**, atuei nesta terceira etapa configurando o Zabbix localmente instalado no Ubuntu Server para monitorar os recursos do Windows Server através de agente. Foi necessário pesquisar materiais e vídeos sobre configuração do Zabbix no Windows Server para proporcionar interação entre os dois serviços. Hospedei as máquinas virtuais e fiz os prints necessários do trabalho. 
+
+Eu, **Yuri Farnesio Sousa Silva**, atuei nesta terceira etapa auxiliando o Mayderson na configuração do Zabbix Server em uma instância do EC2 na AWS, e na configuração do Zabbix Agent na instância EC2 que roda as aplicações Web, API, FTP e OpenVPN. Além disso, procuramos por um tempo, meios de fazer o monitoramento do Banco de Dados através do Zabbix, porém tinham alguns empecilhos e o professor explicou que não havia a necessidade de ser feito essa parte. 
